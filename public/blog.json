@@ -1,82 +1,123 @@
+
 [
   {
     "id": 1,
-    "cover_img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f",
+    "title": "Introduction to Modern Programming",
+    "cover_img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
     "author_name": "John Doe",
     "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
-    "hashtag": "#programming",
-    "reading_time": "5"
+    "hashtag": [
+      "#programming",
+       "#WebDevelopment"
+    ],
+    "reading_time": 5
   },
   {
     "id": 2,
+    "title": "Getting Started with Web Development",
     "cover_img": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d",
     "author_name": "Sarah Smith",
     "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
-    "hashtag": "#webdev",
-    "reading_time": "7"
+    "hashtag": [
+      "#programming",
+       "#WebDevelopment"
+    ],
+    "reading_time": 7
   },
   {
     "id": 3,
+    "title": "JavaScript Basics for Beginners",
     "cover_img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
     "author_name": "David Lee",
     "author_img": "https://randomuser.me/api/portraits/men/3.jpg",
-    "hashtag": "#javascript",
-    "reading_time": "4"
+    "hashtag": [
+      "#programming",
+       "#WebDevelopment"
+    ],
+    "reading_time": 4
   },
   {
     "id": 4,
+    "title": "Build UI with React.js",
     "cover_img": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
     "author_name": "Emma Watson",
     "author_img": "https://randomuser.me/api/portraits/women/4.jpg",
-    "hashtag": "#reactjs",
-    "reading_time": "6"
+    "hashtag":[
+       "#reactjs",
+         "#WebDevelopment"
+    ],
+    "reading_time": 6
   },
   {
     "id": 5,
+    "title": "Introduction to Artificial Intelligence",
     "cover_img": "https://images.unsplash.com/photo-1526378722484-bd91ca387e72",
     "author_name": "Michael Brown",
     "author_img": "https://randomuser.me/api/portraits/men/5.jpg",
-    "hashtag": "#ai",
-    "reading_time": "8"
+    "hashtag": [
+      "#ai",
+     "#Tech"
+    ],
+    "reading_time": 8
   },
   {
     "id": 6,
+    "title": "Clean Code Practices Every Developer Should Know",
     "cover_img": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4",
     "author_name": "Olivia Davis",
     "author_img": "https://randomuser.me/api/portraits/women/6.jpg",
-    "hashtag": "#coding",
-    "reading_time": "5"
+   "hashtag": [
+      "#ai",
+     "#Tech"
+    ],
+    "reading_time": 5
   },
   {
     "id": 7,
+    "title": "How to Become a Professional Developer",
     "cover_img": "https://images.unsplash.com/photo-1504639725590-34d0984388bd",
     "author_name": "James Wilson",
     "author_img": "https://randomuser.me/api/portraits/men/7.jpg",
-    "hashtag": "#developer",
-    "reading_time": "9"
+   "hashtag": [
+      "#ai",
+     "#Tech"
+    ],
+    "reading_time": 9
   },
   {
     "id": 8,
-    "cover_img": "https://images.unsplash.com/photo-1537432376769-00a2c9a4a5b8",
+    "title": "Understanding Software Engineering",
+    "cover_img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
     "author_name": "Sophia Taylor",
     "author_img": "https://randomuser.me/api/portraits/women/8.jpg",
-    "hashtag": "#software",
-    "reading_time": "6"
+   "hashtag": [
+      "#ai",
+     "#Tech"
+    ],
+    "reading_time": 6
   },
   {
     "id": 9,
+    "title": "Python for Data Science",
     "cover_img": "https://images.unsplash.com/photo-1542831371-d531d36971e6",
     "author_name": "Daniel Anderson",
     "author_img": "https://randomuser.me/api/portraits/men/9.jpg",
-    "hashtag": "#python",
-    "reading_time": "7"
+    "hashtag": [
+      "#ai",
+     "#Tech"
+    ],
+    "reading_time": 7
   },
   {
     "id": 10,
+    "title": "Latest Trends in Technology",
     "cover_img": "https://images.unsplash.com/photo-1492724441997-5dc865305da7",
     "author_name": "Isabella Thomas",
     "author_img": "https://randomuser.me/api/portraits/women/10.jpg",
-    "hashtag": "#tech",
-    "reading_time": "5"
+    "hashtag": [
+      "#ai",
+     "#Tech"
+    ],
+    "reading_time": 5
   }
 ]
